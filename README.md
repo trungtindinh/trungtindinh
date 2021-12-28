@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on nothing for this moment
-- 📫 How to reach me  : No you can't
+- 📫 How to reach me  : 
 
 <!---
 trungtindinh/trungtindinh is a ✨ pikachu ✨ repository because its `README.md` (this file) appears on your GitHub profile.
